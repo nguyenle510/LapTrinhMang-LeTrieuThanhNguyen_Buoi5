@@ -1,1 +1,7 @@
 E:\QTM\LeTrieuThanhNguyen-Buoi5\DNS-Client\bin\Debug\DNS-Client.exe.config
+C:\Users\Nguyen Le\Desktop\new\LapTrinhMang-LeTrieuThanhNguyen_Buoi5\DNS-Client\bin\Debug\DNS-Client.exe.config
+C:\Users\Nguyen Le\Desktop\new\LapTrinhMang-LeTrieuThanhNguyen_Buoi5\DNS-Client\bin\Debug\DNS-Client.exe
+C:\Users\Nguyen Le\Desktop\new\LapTrinhMang-LeTrieuThanhNguyen_Buoi5\DNS-Client\bin\Debug\DNS-Client.pdb
+C:\Users\Nguyen Le\Desktop\new\LapTrinhMang-LeTrieuThanhNguyen_Buoi5\DNS-Client\obj\Debug\DNS-Client.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Le\Desktop\new\LapTrinhMang-LeTrieuThanhNguyen_Buoi5\DNS-Client\obj\Debug\DNS-Client.exe
+C:\Users\Nguyen Le\Desktop\new\LapTrinhMang-LeTrieuThanhNguyen_Buoi5\DNS-Client\obj\Debug\DNS-Client.pdb
